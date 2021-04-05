@@ -106,6 +106,5 @@ void orden(int a, int b){
         a = b;
         b = aux;
     } 
-    
     printf("\n El orden acomodado es %d - %d", a, b);
 }
